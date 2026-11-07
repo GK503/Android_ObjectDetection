@@ -1,0 +1,9 @@
+package com.example.myapp;
+
+import android.content.Context;
+
+public class YoloPip {
+    public YoloPip(Context context) {
+
+    }
+}
